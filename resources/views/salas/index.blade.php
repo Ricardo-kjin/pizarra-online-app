@@ -60,7 +60,7 @@
                                     <button type="submit" class="btn btn-sm btn-danger">Eliminar</button>
 
                                 @endif
-                                    <a href="http://localhost:8080/diagramador?username={{str_replace(" ","_",trim(auth()->user()->name))}}&room=Sala1" class="btn btn-sm btn-success" target="_blank">Entrar sala</a>
+                                    <a href="http://localhost:8080/diagramador?username={{str_replace(" ","_",trim(auth()->user()->name))}}&room={{$sala->nombre}}" class="btn btn-sm btn-success" target="_blank">Entrar sala</a>
                             </form>
                         </td>
                     </tr>
