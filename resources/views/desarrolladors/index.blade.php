@@ -8,7 +8,7 @@
                     <h3 class="mb-0">Desarrolladores</h3>
                 </div>
                 <div class="col text-right">
-                    <a href="{{url('/desarrolladores/create')}}" class="btn btn-sm btn-primary">Nuevo Desarrollador</a>
+                    <a href="{{url('/desarrolladores/create')}}" class="btn btn-sm btn-success">Nuevo Desarrollador</a>
                 </div>
             </div>
         </div>

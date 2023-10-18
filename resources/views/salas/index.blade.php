@@ -10,7 +10,7 @@
                 @if (auth()->user()->role=='admin')
 
                 <div class="col text-right">
-                    <a href="{{url('/salas/create')}}" class="btn btn-sm btn-primary"> Nueva Sala</a>
+                    <a href="{{url('/salas/create')}}" class="btn btn-sm btn-success"> Nueva Sala</a>
                 </div>
                 @endif
             </div>
@@ -60,7 +60,7 @@
                                     <button type="submit" class="btn btn-sm btn-danger">Eliminar</button>
 
                                 @endif
-                                    <a href="http://localhost:8080/diagramador?username={{str_replace(" ","_",trim(auth()->user()->name))}}&room=Sala1" class="btn btn-sm btn-primary" target="_blank">Entrar sala</a>
+                                    <a href="http://localhost:8080/diagramador?username={{str_replace(" ","_",trim(auth()->user()->name))}}&room=Sala1" class="btn btn-sm btn-success" target="_blank">Entrar sala</a>
                             </form>
                         </td>
                     </tr>

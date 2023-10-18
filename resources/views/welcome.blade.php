@@ -20,7 +20,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="index.html">OnLineEdu</a>
+                <a class="navbar-brand" href="index.html">Work Online</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
@@ -79,8 +79,8 @@
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
                         <div class="site-heading">
-                            <h1>Online Room</h1>
-                            <span class="subheading">Diseña tus diagramas de clases aqui</span>
+                            <h1>Pizarra Colaborativa</h1>
+                            <span class="subheading">Diseña tus diagramas de secuencia aqui...!</span>
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                     <!-- Post preview-->
                     <div class="post-preview">
                         <a href="post.html">
-                            <h2 class="post-title text-right">Diseña tus diagramas aqui!</h2>
+                            <h2 class="post-title text-right">Empieza a trabajar Ya!</h2>
                             <h3 class="post-subtitle text-right">Prueba nuestra pizarra de facil manejo para tu proyectos</h3>
                         </a>
                     </div>
